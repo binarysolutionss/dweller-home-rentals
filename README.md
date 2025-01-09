@@ -4,27 +4,6 @@
 
 Dweller is a web application designed to simplify the process of finding a home. It features a responsive design, smooth navigation, and various sections to showcase listings, company stats, and more.
 
-## Project Structure
-assets/
-    css/
-        style.css
-    fonts/
-        Poppins-Bold.ttf
-        Poppins-Medium.ttf
-        Poppins-Regular.ttf
-    img/
-        backgrounds/
-        houses/
-        icons/
-        logos/
-            logo - fave icon.ai
-            logo - nav.ai
-            logo.ai
-        vector images/
-    js/
-        script.js
-index.html
-
 ## Files
 
 ### HTML
@@ -61,7 +40,6 @@ index.html
 - **Why Us Section**: A section highlighting the benefits of using the service.
 - **Footer**: A footer with contact information and useful links.
 
-## Usage
 
 1. Clone the repository.
 2. Open [`index.html`](index.html) in your web browser to view the website.
